@@ -1,0 +1,8 @@
+TASK
+- buat cara guna admin greatmart
+- upgrade greatmart
+
+LEARN 
+- git
+- php
+- vb
