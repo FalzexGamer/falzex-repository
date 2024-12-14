@@ -1,6 +1,7 @@
 TASK
 - buat cara guna admin greatmart
 - upgrade greatmart
+- belajar igold system
 
 LEARN 
 - git
