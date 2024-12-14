@@ -2,6 +2,7 @@ TASK
 - buat cara guna admin greatmart
 - upgrade greatmart
 - belajar igold system
+- data structure
 
 LEARN 
 - git
