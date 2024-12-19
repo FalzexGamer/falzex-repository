@@ -1,7 +1,7 @@
 WORK
 - mz gold
 - sign in 
-- posts
+- posts admin
 
 TASK
 - buat cara guna admin greatmart
