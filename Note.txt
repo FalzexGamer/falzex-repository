@@ -1,15 +1,8 @@
-WORK
-- mz gold
-- sign in 
-- posts admin
-
-TASK
-- buat cara guna admin greatmart
-- upgrade greatmart
-- belajar igold system
-- data structure
-
-LEARN 
-- git
-- php
-- vb
+My Langguage 
+- HTML
+- CSS
+- JAVASCRIPT
+- BOOTSTRAP
+- TAILWIND
+- JQUERY
+- REACT
